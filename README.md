@@ -1,4 +1,4 @@
-# Project Twitch Clone App :heart:
+# Twitch Clone App :heart:
 Projeto feito para estudo do React-Native! <br>
 E também sobre a plataforma que faço [streams](https://www.twitch.tv/zumbizar) diariamente!
 
